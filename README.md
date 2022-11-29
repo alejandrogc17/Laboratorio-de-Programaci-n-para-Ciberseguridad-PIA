@@ -10,7 +10,7 @@ Bienvenido a este repositorio de la materia Laboratorio de Programación para ci
 
 4- [Encoding & Decoding](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Encoding_%26_Decoding) : Uso de Powershell/Python para métodos de codificación.
 
-5- Webscraping: Extracción de información de sitos web mediante Python.
+5- [Webscraping](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Webscrapping) : Extracción de información de sitos web mediante Python.
 
 6- Nmap: Uso del software NMAP para escaneo de puertos.
 
