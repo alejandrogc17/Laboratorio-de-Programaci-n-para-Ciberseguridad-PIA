@@ -4,7 +4,7 @@ Bienvenido a este repositorio de la materia Laboratorio de Programación para ci
 # Contenido:
 1- [Manejo de APIs](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Manej) : Script para consumo de Apis.
 
-2- Scripting en PowerShell: Uso de Powershell para obtener información de la red mediante comandos cmd-lets.
+2- [Scripting en PowerShell](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Scripting_en_Powershell): Uso de Powershell para obtener información de la red mediante comandos cmd-lets.
 
 3- Scripting en Bash Introducción al uso de BASH para determinadas tareas.
 
