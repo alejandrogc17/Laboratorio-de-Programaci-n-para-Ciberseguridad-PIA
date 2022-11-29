@@ -14,7 +14,7 @@ Bienvenido a este repositorio de la materia Laboratorio de Programación para ci
 
 6- [Nmap](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Nmap): Uso del software NMAP para escaneo de puertos.
 
-7- FTP: Uso de protocolo FTP para transferencias de archivos.
+7- [FTP](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/FTP): Uso de protocolo FTP para transferencias de archivos.
 
 8- Escáner de Puertos: Escaneo de puertos de una red.
 
