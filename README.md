@@ -8,7 +8,7 @@ Bienvenido a este repositorio de la materia Laboratorio de Programación para ci
 
 3- [Scripting en Bash](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Scripting_en_BASH): Introducción al uso de BASH para determinadas y sencillas.
 
-4- Encoding & Decoding: Uso de Powershell/Python para métodos de codificación.
+4- [Encoding & Decoding](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Encoding_%26_Decoding) : Uso de Powershell/Python para métodos de codificación.
 
 5- Webscraping: Extracción de información de sitos web mediante Python.
 
