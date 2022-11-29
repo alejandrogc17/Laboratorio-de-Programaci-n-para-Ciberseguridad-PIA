@@ -1,4 +1,4 @@
-# Laboratorio-de-Programación-para-Ciberseguridad-PIA
+# Laboratorio de Programación para Ciberseguridad PIA
 # Propósito
 Bienvenido a este repositorio de la materia Laboratorio de Programación para ciberseguridad, en el encontrarás proyectos realizados para la materia, esperamos que alguno de los códigos sea de tu agrado:)
 # Contenido:
@@ -18,7 +18,7 @@ Bienvenido a este repositorio de la materia Laboratorio de Programación para ci
 
 8- [Escáner de Puertos](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Escaner_de_Puertos) : Escaneo de puertos de una red.
 
-9- Envió de Correos: Envio de correos en python con el protocolo SMTP.
+9- [Envió de Correos](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Envio%20de%20correos): Envio de correos en python con el protocolo SMTP.
 
 10- Automatización de Tareas: Uso de Powershell y Python para la preparación de tareas automáticas.
 
