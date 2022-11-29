@@ -2,7 +2,7 @@
 # Propósito
 Bienvenido a este repositorio de la materia Laboratorio de Programación para ciberseguridad, en el encontrarás proyectos realizados para la materia, esperamos que alguno de los códigos sea de tu agrado:)
 # Contenido:
-1- {Manejo de APIs}(Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/Manej) : Script para consumo de Apis.
+1- [Manejo de APIs](Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/Manej) : Script para consumo de Apis.
 
 2- Scripting en PowerShell: Uso de Powershell para obtener información de la red mediante comandos cmd-lets.
 
