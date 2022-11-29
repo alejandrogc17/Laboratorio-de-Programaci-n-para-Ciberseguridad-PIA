@@ -16,7 +16,7 @@ Bienvenido a este repositorio de la materia Laboratorio de Programación para ci
 
 7- [FTP](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/FTP): Uso de protocolo FTP para transferencias de archivos.
 
-8- Escáner de Puertos: Escaneo de puertos de una red.
+8- [Escáner de Puertos](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Escaner_de_Puertos) : Escaneo de puertos de una red.
 
 9- Envió de Correos: Envio de correos en python con el protocolo SMTP.
 
