@@ -20,7 +20,7 @@ Bienvenido a este repositorio de la materia Laboratorio de Programación para ci
 
 9- [Envió de Correos](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Envio%20de%20correos): Envio de correos en python con el protocolo SMTP.
 
-10- Automatización de Tareas: Uso de Powershell y Python para la preparación de tareas automáticas.
+10- [Automatización de Tareas](https://github.com/alejandrogc17/Laboratorio-de-Programaci-n-para-Ciberseguridad-PIA/tree/main/Automatizaci%C3%B3n%20de%20tareas): Uso de Powershell y Python para la preparación de tareas automáticas.
 
 # Autor
 Yordi Alejandro González Campos
